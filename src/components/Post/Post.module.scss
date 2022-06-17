@@ -12,6 +12,16 @@
     align-items: center;
     justify-content: space-between;
 
+    
+    @media (max-width: 400px) {
+      display: block;
+      
+      time {
+        display: inherit;
+        margin-top: 1rem;
+      }
+    }
+
     time {
       font-size: .875rem;
       color: var(--gray-400);
@@ -51,6 +61,7 @@
 
     &.tags {
       display: inline-flex;
+      flex-wrap: wrap;
       gap: .5rem;
     }
   }
