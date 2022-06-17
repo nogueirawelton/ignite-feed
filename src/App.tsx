@@ -20,7 +20,7 @@ const posts = [
       },
       {
         type: 'paragraph',
-        content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nomme do projeto é DoctorCare 🚀'
+        content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'
       },
       {
         type: 'link',
@@ -48,7 +48,7 @@ const posts = [
       },
       {
         type: 'paragraph',
-        content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no Ignite, da Rocketseat. O nomme do projeto é Rentalx 🚀'
+        content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no Ignite, da Rocketseat. O nome do projeto é Rentalx 🚀'
       },
       {
         type: 'link',
